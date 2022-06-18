@@ -1,0 +1,12 @@
+#!/bin/sh
+#
+# @name Quad
+#
+# @type Quadrotor Wide
+#
+# @maintainer I think me
+#
+
+. ${R}etc/init.d/rc.mc_defaults
+
+set MIXER quad_x

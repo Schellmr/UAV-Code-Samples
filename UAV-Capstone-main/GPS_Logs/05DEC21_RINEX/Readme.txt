@@ -1,0 +1,1 @@
+This rinex file contained approximately 240 minutes of observations from cadet memorial field. The antenna was centered directly above the "x" furthest east on the north 30 yard line (see attached photograph). The antenna was 48 inches above the ground, and a JAVAD MarAnt+ antenna was utilized.

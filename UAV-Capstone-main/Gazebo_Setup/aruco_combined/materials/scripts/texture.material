@@ -1,0 +1,15 @@
+material aruco_combined/Diffuse
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture aruco_combined.png
+        filtering anistropic
+        max_anisotropy 16
+      }
+    }
+  }
+}
