@@ -1,0 +1,35 @@
+moe.tendies.oscar.rendering.drawable.Animation.java
+ moe.tendies.oscar.rendering.drawable.Animation
+moe.tendies.oscar.rendering.drawable.Texture.java
+ moe.tendies.oscar.rendering.drawable.Texture
+moe.tendies.oscar.rendering.camera.Camera.java
+ moe.tendies.oscar.rendering.camera.Camera
+moe.tendies.oscar.game.world.environment.Tile.java
+ moe.tendies.oscar.game.world.environment.Tile
+moe.tendies.oscar.io.Input.java
+ moe.tendies.oscar.io.Input
+moe.tendies.oscar.math.Transform.java
+ moe.tendies.oscar.math.Transform
+moe.tendies.oscar.math.Timer.java
+ moe.tendies.oscar.math.Timer
+moe.tendies.oscar.rendering.TileRenderer.java
+ moe.tendies.oscar.rendering.TileRenderer
+moe.tendies.oscar.physics.AABB.java
+ moe.tendies.oscar.physics.AABB
+moe.tendies.oscar.rendering.Window.java
+ moe.tendies.oscar.rendering.Window
+ moe.tendies.oscar.rendering.Window$1
+moe.tendies.oscar.rendering.drawable.Model.java
+ moe.tendies.oscar.rendering.drawable.Model
+moe.tendies.oscar.game.world.World.java
+ moe.tendies.oscar.game.world.World
+moe.tendies.oscar.physics.Collision.java
+ moe.tendies.oscar.physics.Collision
+moe.tendies.oscar.rendering.drawable.Shader.java
+ moe.tendies.oscar.rendering.drawable.Shader
+moe.tendies.oscar.game.playable.Player.java
+ moe.tendies.oscar.game.playable.Player
+moe.tendies.oscar.rendering.Entity.java
+ moe.tendies.oscar.rendering.Entity
+moe.tendies.oscar.MAIN.java
+ moe.tendies.oscar.MAIN
